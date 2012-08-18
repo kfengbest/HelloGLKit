@@ -9,6 +9,7 @@
 #import <GLKit/GLKit.h>
 
 // Change 1
+// Change 2
 @interface HelloGLKitViewController : GLKViewController
 
 @end
